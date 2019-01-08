@@ -11,6 +11,10 @@ li{
 li a{
     display: inline-block;
 }
+
+.top-bar{
+    font-size: 13px;
+}
 .left {
     float: left;
 }
