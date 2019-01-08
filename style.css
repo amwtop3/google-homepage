@@ -13,6 +13,11 @@ li{
 
 li a{
     display: inline-block;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
 }
 
 .top-bar{
