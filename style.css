@@ -6,6 +6,9 @@ ul{
 }
 li{
     display: inline;
+    text-decoration: none;
+    color: #555;
+    padding: 0 9px;
 }
 
 li a{
@@ -20,4 +23,10 @@ li a{
 }
 .right {
     float: right;
+}
+
+.center{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
 }
